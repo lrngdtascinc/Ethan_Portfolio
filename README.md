@@ -18,3 +18,11 @@ The main goal of this analysis was too format the data from Pewlett-Hackard and 
   * Wrote SQL queries to put together the Pewlett-Hackard Employee Database.
 
   ![Project_2](https://github.com/lrngdtascinc/Ethan_Portfolio/blob/9c795d5c7833139f0078b3051bf7ce00ef59b69c/Images/Screenshot%20(36).png)
+
+## [Project 3: Visualizing Citi-Bike Data with Tableau](https://github.com/lrngdtascinc/NYC-Citi-Bike-Analysis.git)
+The purpose of this analysis is to show to investors that a bike sharing business model would be successful in Des Moines Iowa by gathering the bike data and putting together a couple of visualizations in a Tableau story. Going thru the Tableau story we can see many patterns emerge that shoq that creating a bike sharing business in Des Moines would most likely be a profitable idea.
+
+  * Built Charts to analyze Citi-Bike Trips
+  * Created a comprehensive story using visualizations for a final presentation.
+
+  ![Project_3]()
