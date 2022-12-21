@@ -25,4 +25,4 @@ The purpose of this analysis is to show to investors that a bike sharing busines
   * Built Charts to analyze Citi-Bike Trips
   * Created a comprehensive story using visualizations for a final presentation.
 
-  ![Project_3]()
+  ![Project_3](https://github.com/lrngdtascinc/Ethan_Portfolio/blob/8abc47c4e1e63f805903ad73a85e34f7d6b3db0f/Images/Screenshot%20(35).png)
