@@ -9,4 +9,4 @@ Data Science Portfolio
   * Used Feature Engineering to prepare the data for machine learning.
   * Used Scikit Learn to build an Isolation Forest to detect outliers in the dataset.
   
-  ![Project_1]()
+  ![Project_1](https://github.com/lrngdtascinc/Ethan_Portfolio/blob/7c1983be67de35d5df0dc37d4cafd9dd24dc52af/Images/Screenshot%20(34).png)
