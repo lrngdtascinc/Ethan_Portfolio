@@ -8,7 +8,7 @@
   * Used Feature Engineering to prepare the data for machine learning.
   * Used Scikit Learn to build an Isolation Forest to detect outliers in the dataset.
   
-  ![Project_1](https://raw.github.com/lrngdtascinc/Ethan_Portfolio/blob/61b59221c8260a30883aa7451f24de8d99a5dad6/Images/Screenshot%20(34).png)
+  ![Project_1](https://github.com/lrngdtascinc/Ethan_Portfolio/blob/61b59221c8260a30883aa7451f24de8d99a5dad6/Images/Screenshot%20(34).png)
 
 ## [Project 2: SQL Queries for Company Training](https://github.com/lrngdtascinc/Pewlett-Hackard-Analysis-.git)  
 The main goal of this analysis was too format the data from Pewlett-Hackard and go thru it to figure out how many employees are about to retire, and to find which employees are eligible to participate in the mentorship program. This will help streamline the process of assigning mentors to those who are eligible to save the company time and money.
