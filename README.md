@@ -17,4 +17,4 @@ The main goal of this analysis was too format the data from Pewlett-Hackard and 
   * Analyzed the data from Pewlett-Hackard to identify primary and foreign keys.
   * Wrote SQL queries to put together the Pewlett-Hackard Employee Database.
 
-  ![Project_2]()
+  ![Project_2](https://github.com/lrngdtascinc/Ethan_Portfolio/blob/9c795d5c7833139f0078b3051bf7ce00ef59b69c/Images/Screenshot%20(36).png)
