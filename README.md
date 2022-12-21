@@ -1,5 +1,4 @@
-# Ethan_Portfolio
-Data Science Portfolio
+# Ethan's Portfolio
 
 ## [Project 1: DDoS Detection with Python](https://github.com/Brotherscodes/Cyber_Security_Intrusion_Prevention.git) 
 
